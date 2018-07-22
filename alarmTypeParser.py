@@ -1,7 +1,8 @@
 #! python
 import os
 
-
+def valami(this):
+    pass
 
 def getAlarmTypes(fineName):
         
