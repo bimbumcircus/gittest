@@ -1,6 +1,9 @@
 #! python
 import os
 
+def valami2(this):
+    pass
+
 def valami(this):
     pass
 
